@@ -1,4 +1,27 @@
+h1 {
+	
+	font-size: 30px;
+}
+
+
 .picture {
 	
-	width: 50%;
+	width: 70%;
+}
+
+.card {
+	margin: 10px;
+	opacity:0.8;
+}
+
+.profile-pic {
+	opacity:1;
+}
+
+body {
+  background-image: url('../img/img_1.jpg');
+}
+
+ul {
+  list-style-type: none;
 }
